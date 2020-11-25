@@ -1,0 +1,13 @@
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Users\Gebruiker\Documents\Projects\MatrixEffect\MatrixProject\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
